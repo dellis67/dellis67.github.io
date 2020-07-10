@@ -33,6 +33,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Wordstar anyone?
 Getting the syntax into your hands and out of your head was the key, as I'm sure it is here too.
 
+Now how do links work? [Like This?](https://en.wikipedia.org/wiki/Lynx#/media/File:Lynx_lynx_poing.jpg) I guess so. Weird
+
+Images too, I suppose have some syntactical uniqueness.
+![](https://marketingland.com/wp-content/ml-loads/2014/08/photos-images-pictures-ss-1920.jpg)
+
+Just like URL links. How about photos on my computer? Not obvious.
 
 ### Jekyll Themes
 
